@@ -1,5 +1,5 @@
 
-bertopic==0.11.0
+bertopic
 datasets==2.2.2
 flair==0.11.3
 fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.2.0/fr_core_news_sm-3.2.0-py3-none-any.whl
@@ -25,10 +25,10 @@ spacy==3.2.3
 spotipy==2.22.1
 streamlit==1.11.1
 tokenizers==0.12.0
-torch==1.13.0
-torchtext==0.13.0
-torchvision==0.13.0
+torch
+torchtext
+torchvision
 transformers==4.30
-umap-learn==0.5.3
+umap-learn
 wordcloud==1.8.2.2
 
