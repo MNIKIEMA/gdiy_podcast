@@ -14,7 +14,6 @@ pandas==1.4.0
 plotly==5.9.0
 pyarrow==8.0.0
 pydantic==1.8.2
-Pygments==2.11.2
 sacremoses==0.0.49
 scikit-learn==1.0.2
 seaborn==0.11.2
@@ -23,13 +22,13 @@ sentencepiece==0.1.95
 seqeval==1.2.2
 sklearn==0.0
 spacy==3.2.3
-spotipy==2.20.0
+spotipy==2.22.1
 streamlit==1.11.1
 tokenizers==0.12.0
-torch==1.11.0
-torchtext==0.12.0
-torchvision==0.12.0
-transformers==4.17.0
+torch==1.13.0
+torchtext==0.13.0
+torchvision==0.13.0
+transformers==4.30
 umap-learn==0.5.3
 wordcloud==1.8.2.2
 
